@@ -1,0 +1,5 @@
+<!-- android/app/src/main/res/values/values.xml -->
+
+<resources>
+    <string name="default_web_client_id" translatable="false">346647903797-a6qhleriguqmi4cj2p6upeuencudtgdr.apps.googleusercontent.com</string>
+</resources>
